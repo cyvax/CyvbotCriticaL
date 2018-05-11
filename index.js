@@ -663,4 +663,4 @@ let mutedRole = message.guild.roles.find("name", "mute");
       )}
 });
 
-client.login("MjUxMDA1ODA3MDcwNjc0OTQ0.DMVAEw.5e0TGtVJLIeXDOxs9cgNDmOAwlA");
+client.login("token");
